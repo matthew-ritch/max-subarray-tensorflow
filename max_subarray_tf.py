@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue May 28 10:47:59 2019
-@author: mritch
+@author: matthew-ritch
 Defines functions for both 1D and 2D max subarray finding procedures operating on tensors
 """
 
